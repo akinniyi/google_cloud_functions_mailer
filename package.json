@@ -1,0 +1,9 @@
+{
+    "name": "pubsub_triggered_mailer",
+    "version": "0.0.1",
+    "dependencies": {
+      "@google-cloud/pubsub": "^0.18.0",
+      "nodemailer": "^6.1.0"
+    }
+}
+  
